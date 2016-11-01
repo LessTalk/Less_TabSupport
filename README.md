@@ -8,4 +8,4 @@
         viewPager.setAdapter(new ViewPagerAdapter(getSupportFragmentManager()));
         tabLayout.setupWithViewPager(viewPager);
 ```
-https://github.com/LessTalk/TabSupport/blob/master/library/src/main/res/img/DEFAULT.png <br>
+<img src="https://github.com/LessTalk/TabSupport/blob/master/library/src/main/res/img/DEFAULT.png" width="48" height="48" />
