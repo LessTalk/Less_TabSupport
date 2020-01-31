@@ -9,7 +9,7 @@
         tabLayout.setupWithViewPager(viewPager);
 ```
 01 默认样式 <br>
-<img src="https://github.com/LessTalk/TabSupport/blob/master/library/src/main/res/img/DEFAULT.png" width="700" height="100" /> <br>
+<img src="blob/master/library/src/main/res/img/DEFAULT.png" width="700" height="100" /> <br>
 02 无下划线模式 <br>
 ```java
 tabLayout.setType(TabLayout.TYPE_NO_LINE);
